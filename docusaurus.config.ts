@@ -24,7 +24,7 @@ const meta_description =
 const config: Config = {
   title: title,
   url: 'https://kushajveersingh.com/',
-  baseUrl: '/exploring-apple-development',
+  baseUrl: '/Exploring-Apple-Development/',
 
   favicon: 'favicon.ico',
 
