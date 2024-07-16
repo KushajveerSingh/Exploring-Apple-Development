@@ -10,6 +10,7 @@
     "kisstkondoros.vscode-gutter-preview",
     "ms-vscode.vscode-typescript-next",
     "unifiedjs.vscode-mdx",
-    "github.vscode-github-actions"
+    "github.vscode-github-actions",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
